@@ -15,8 +15,6 @@ import {
 
 function App() {
   return (
-    <>
-    <h1>a</h1>
     <Router> 
        <Switch>
        <Route exact path="/">
@@ -45,7 +43,6 @@ function App() {
        
      </Switch>
    </Router>
-   </>
   );
 }
  
