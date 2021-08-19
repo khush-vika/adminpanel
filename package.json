@@ -1,7 +1,7 @@
 {
   "name": "newadminpanel",
   "version": "0.1.0",
-  "homepage": "https://khush-vika.github.io/adminpannel",
+  "homepage": "https://khush-vika.github.io/adminpanel",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
